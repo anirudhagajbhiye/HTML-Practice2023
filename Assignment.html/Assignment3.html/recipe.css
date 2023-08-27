@@ -7,8 +7,8 @@ body {
 h1,
 h2 {
   color: #a4a400;
-  background-color: #f0f0f0;
-  font-family: "Italic";
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
   text-decoration: underline;
   letter-spacing: 0.2em;
 }
@@ -17,6 +17,7 @@ h1 {
   text-align: center;
   font-size: 22pt;
   font-weight: bold;
+  text-decoration-color: #a4a400;
 }
 
 h2 {
@@ -29,9 +30,8 @@ p,
 li {
   color: #404040;
   font-size: 11pt;
-  font-family: "Georgia", "Garamond", "Serif";
+  font-family: Georgia, "Times New Roman", Times, serif;
   border: #404040;
-
 }
 
 a {
@@ -43,7 +43,6 @@ blockquote {
   font-style: italic;
   background-color: #ffffc8;
 }
-
 ul {
-  list-style-image: url(http://www.cs.washington.edu/education/courses/cse190m/08sp/homework/1/pie_icon.gif);
+  list-style: url(pngegg.png);
 }

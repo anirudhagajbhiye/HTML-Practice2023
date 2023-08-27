@@ -1,0 +1,20 @@
+body {
+  background-image: url("Grandmas-Lemon-Meringue-Pie-3-1200x800.jpg");
+  background-size: cover;
+  backdrop-filter: light;
+}
+h1 {
+  text-align: center;
+  color: #000000;
+  font-family: "Italic";
+  text-decoration: underline;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16pt;
+  text-shadow: visible;
+}
+href {
+  color: blue;
+}
